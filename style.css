@@ -90,6 +90,20 @@ body {
     width: 90%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.container__editDelete {
+    width: 40%;
+    margin-right: 8em;
+    background-color: rgb(0 0 0 / .3);
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: .4em;
+    display: flex; 
+    justify-content: center;
+    gap: 6em; 
+
 }
 
 
