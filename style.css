@@ -77,3 +77,19 @@ body {
     text-decoration: none;
     font-family: var(--font-email);
 }
+
+.container__check {
+    clip-path: 50%;
+    width: 1px;
+    height: 1px;
+    position: absolute;
+    opacity: 0;
+}
+
+.container__icons {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
